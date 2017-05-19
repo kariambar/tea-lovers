@@ -74,7 +74,10 @@ Código Hexadecimal gris footer: #3B3B3B
 	border: 0px solid #000000;
 	border-radius: 30px;
 }
-.formulario input::-webkit-input-placeholder { color:#8EC641; padding-left: 10px;}
+.formulario input::-webkit-input-placeholder { 
+	color:#8EC641; 
+	padding-left: 10px;
+}
 
 #fav-tea {
 	border: 0px solid #000000;
@@ -107,7 +110,7 @@ Código Hexadecimal gris footer: #3B3B3B
 }
 /*Tipos de té*/
 .te-diferentes{
-	color: white;
+	background-color: white;
 	padding: 30px;
 	width: 60%;
 	margin: 0 auto;
@@ -139,4 +142,5 @@ footer {
 	color: #0a4a00 ;
 	border-radius: 111px;
 	width: 30%;
+
 }
